@@ -73,9 +73,10 @@ interface FastEthernet0/3
  switchport access vlan 20
  spanning-tree portfast
  ```
-
+```
 PC1 → PC3 : Success
 PC1 → PC2 : Timeout (blocked by VLAN)
 PC1 → PC4 : Timeout (blocked by VLAN)
 PC2 → PC4 : Success
 PC3 → PC2 : Timeout (blocked by VLAN)
+```
