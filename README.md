@@ -1,6 +1,6 @@
 # Basic 2-VLAN Lab Across Two Cisco Catalyst 2960 Switches
 
-Real hardware lab • Cisco IOS • Proper trunking • Layer 2 isolation
+lab • Cisco IOS • Proper trunking • Layer 2 isolation
 
 ![Topology](Topology.png)
 
@@ -10,7 +10,7 @@ Real hardware lab • Cisco IOS • Proper trunking • Layer 2 isolation
 - Complete Layer 2 separation between the two groups
 
 ### Equipment used
-- 2 × Cisco Catalyst 2960-24TT (real metal, not simulation)  
+- 2 × Cisco Catalyst 2960-24TT (simulation)  
 - 4 × PCs with static IPs as shown
 
 ### Key concepts demonstrated
