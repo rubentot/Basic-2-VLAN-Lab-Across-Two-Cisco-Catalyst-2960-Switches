@@ -2,7 +2,7 @@
 
 Real hardware lab • Cisco IOS • Proper trunking • Layer 2 isolation
 
-![Topology](topology.png)
+![Topology](Topology.png)
 
 ### Goal
 - PC1 ↔ PC3 only (VLAN 10 – 10.0.0.0/24)  
